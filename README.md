@@ -1,5 +1,5 @@
 # GAIATrace & Vidur-Agent
-Artifact for IISWC'26 **Characterizing How Complex Agentic AI Systems Handle General Tasks: A Trace-Based Simulation Study**
+Artifact for IISWC'26 paper **"Characterizing How Complex Agentic AI Systems Handle General Tasks: A Trace-Based Simulation Study"**
 
 [arXiv](https://arxiv.org/abs/2606.01725) | [Artifact (Zenodo)](https://doi.org/10.5281/zenodo.22133686)
 
