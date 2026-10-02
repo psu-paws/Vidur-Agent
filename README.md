@@ -1,7 +1,7 @@
-# Artifact
+# GAIATrace & Vidur-Agent
+**Characterizing How Complex Agentic AI Systems Handle General Tasks: A Trace-Based Simulation Study**
 
-Artifact for *"Characterizing How Complex Agentic AI Systems
-Handle General Tasks: A Trace-Based Simulation Study"*.
+[IISWC '26)]([https://iiswc.org/iiswc2026/program.html#day-mon-sept-28]) | [arXiv](https://arxiv.org/abs/2606.01725) | [Artifact (Zenodo)](https://doi.org/10.5281/zenodo.22133686)
 
 The artifact is a two-stage pipeline. **GAIATrace** records what two real agent
 systems did on the GAIA benchmark; **Vidur-Agent** replays those traces against a
